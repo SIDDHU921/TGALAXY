@@ -1,0 +1,3 @@
+SENTINX-SIMULATED-MALWARE-TEST-PAYLOAD-NOT-HARMFUL
+This is a benign test file for evaluating the SentinX Security Layer.
+It simulates a sideloaded Android Application Package (.apk) without containing any actual malicious executable instructions.
